@@ -1,0 +1,4 @@
+﻿  sort.cpp
+c:\users\i no know anything\source\repos\sort\sort\sort.cpp(104): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\i no know anything\source\repos\sort\sort\sort.cpp(110): warning C4101: “data”: 未引用的局部变量
+  sort.vcxproj -> C:\Users\I no know anything\source\repos\sort\Debug\sort.exe
